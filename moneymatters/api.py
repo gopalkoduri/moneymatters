@@ -36,7 +36,7 @@ class ExchangeAPI:
             data = requests.get(
                 f"https://www.xe.com/currencyconverter/convert/?Amount={price}&From={from_currency}&To={to_currency}"
             )
-            soup = BeautifulSoup(data, "html.parser")
+            soup = BeautifulSoup(data.text, "html.parser")
             p_element = soup.find("p", class_="sc-1c293993-1 fxoXHw")
             full_text = p_element.get_text()
             numeric_text = "".join([char for char in full_text if char.isdigit() or char == "."])
