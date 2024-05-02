@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="moneymatters",
-    version="1.0.0",
+    version="1.0.1",
     description="A Python package that encompasses money related stuff into one package - money formatting, currency conversion etc",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",  # Ensure you include a README.md in your package
