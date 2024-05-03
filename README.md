@@ -65,8 +65,8 @@ This project is licensed under the Affero GNU Public License v3 - see the [LICEN
 
 - **Author**: Gopala Krishna Koduri
 - **Email**: [gopal@riyazapp.com](mailto:gopal@riyazapp.com)
-- [GitHub Repository](https://github.com/gopalkoduri/moneymatters)
-- [Issue Tracker](https://github.com/gopalkoduri/moneymatters/issues)
+- [GitHub Repository](https://github.com/musicmuni/moneymatters)
+- [Issue Tracker](https://github.com/musicmuni/moneymatters/issues)
 - [LinkedIn](https://linkedin.com/in/gopalkoduri)
 - [Learn to Sing with Riyaz App](https://riyazapp.com)
 
